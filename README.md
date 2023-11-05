@@ -43,8 +43,11 @@ book_key: Primary key for the book dimension. book_title: Title of the book. aut
 # 2-Customer Dimension:
 customer_key: Primary key for the customer dimension. customer_name: Customer's name. Other customer-related attributes.
 ![CustomerDim](https://github.com/MohamedSelim11/gravity_books_DWH/assets/127447294/2c9bcb7f-f7e3-43b1-821b-d10888d5952f)
+# 3-Shipping Dimension:
+Shipping_key: Primary key for the Shipping dimension. Shipping_Method: Shipping's Method.
+![ShippingDim](https://github.com/MohamedSelim11/gravity_books_DWH/assets/127447294/29d262d9-e638-41f7-88bd-b283b8b31716)
 
-# 3-Date Dimension:
+# 4-Date Dimension:
 date_key: Primary key for the date dimension. date: Date in various formats (e.g., YYYY-MM-DD). Other date-related attributes (e.g., day of the week, month, year).
 
 # Fact Table
